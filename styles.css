@@ -9,10 +9,10 @@ html {
 }
 body {
   height: 100vh;
-  width: 1440px;
+  
   display: grid;
   place-items: center;
-  border: 1px solid black;
+  
   object-fit: cover;
   font-family: "Barlow Semi Condensed", sans-serif;
 }
